@@ -1,0 +1,4 @@
+function main() {
+    console.og(1 + 2);
+}
+
